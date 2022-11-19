@@ -1,0 +1,17 @@
+.resultGrid {
+    display: 'grid';
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    background-color: aquamarine;
+}
+
+
+.imagesGrid {
+    display: 'grid';
+    grid-template-columns: repeat(4, 1fr)
+}
+
+.images {
+    max-width: '25em';
+    max-height: '30em';
+}
